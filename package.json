@@ -1,0 +1,18 @@
+{
+  "name": "netlify-express-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "netlify deploy --prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.20.0",
+    "netlify-cli": "^17.36.0",
+    "netlify-lambda": "^2.0.16",
+    "serverless-http": "^3.2.0"
+  }
+}

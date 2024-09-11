@@ -1,0 +1,20 @@
+{
+	"siteId": "951e3aeb-8633-4600-b23c-8a8823e136e3",
+	"geolocation": {
+		"data": {
+			"city": "London",
+			"country": {
+				"code": "GB",
+				"name": "United Kingdom"
+			},
+			"subdivision": {
+				"code": "ENG",
+				"name": "England"
+			},
+			"timezone": "Europe/London",
+			"latitude": 51.5074,
+			"longitude": -0.1196
+		},
+		"timestamp": 1726044095540
+	}
+}
